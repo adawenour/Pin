@@ -2,4 +2,4 @@
 
 This is the first app
 
-by me
+by me weezy
