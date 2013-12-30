@@ -1,5 +1,5 @@
-# One Month rails
+Building my first application which will have all the features of the photo sharing App Pinterest.
 
-This is the first app
+This will be my first Web Application that will be deployed on heroku!
 
-by me weezy
+By Adawe Nour
