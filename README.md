@@ -4,7 +4,7 @@ User will be able to upload image pins from there local machine or through image
 
 This Web Application will be deployed on heroku!
 
-online here demo.onemonthrails.com 
+online here http://demo.onemonthrails.com/
 
 http://omr-first.herokuapp.com/
 
