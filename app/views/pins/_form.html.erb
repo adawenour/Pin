@@ -16,6 +16,10 @@
     <%= f.file_field :image, class: "form-control" %>
   </div>
 
+  <div class="form-group">
+   <%= f.label :Or_Add_Image_Uploading_via_URL %>
+   <%= f.text_field :image_remote_url, class: "form-control" %>
+  </div>
 
   <div class="form-group">
     <%= f.label :description %>
@@ -24,4 +28,5 @@
   <div class="actions">
     <%= f.submit class: "btn btn-primary" %>
   </div>
+
 <% end %>
