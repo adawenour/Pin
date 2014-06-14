@@ -1,7 +1,10 @@
 First::Application.routes.draw do
+  get "users/show"
   resources :pins
 
   devise_for :users
+  resources :users, :only => [:show]
+  
   root "pins#index"
   get "about" => "pages#about" #creates about_path
 
